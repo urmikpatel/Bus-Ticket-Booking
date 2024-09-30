@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bus-Ticket-Booking/static/css/main.634704b0.css",
+    "main.js": "/Bus-Ticket-Booking/static/js/main.dc02a629.js",
+    "static/js/787.a0b06272.chunk.js": "/Bus-Ticket-Booking/static/js/787.a0b06272.chunk.js",
+    "static/media/busbooking.jpg": "/Bus-Ticket-Booking/static/media/busbooking.29d625f5b85bf176f880.jpg",
+    "static/media/Tours & Travels-logos.jpeg": "/Bus-Ticket-Booking/static/media/Tours & Travels-logos.05f552659a9655aadbc2.jpeg",
+    "static/media/bookbus.png": "/Bus-Ticket-Booking/static/media/bookbus.f2e3f740f01b330cb8f3.png",
+    "static/media/Tours & Travels-logos_white.png": "/Bus-Ticket-Booking/static/media/Tours & Travels-logos_white.a9dcea2c05f32d1ca5db.png",
+    "static/media/busimage.jpg": "/Bus-Ticket-Booking/static/media/busimage.5e3087cc84cf2dcc4219.jpg",
+    "static/media/animated-bus-image-0007.gif": "/Bus-Ticket-Booking/static/media/animated-bus-image-0007.f7376720b9e6c6e56308.gif",
+    "index.html": "/Bus-Ticket-Booking/index.html",
+    "main.634704b0.css.map": "/Bus-Ticket-Booking/static/css/main.634704b0.css.map",
+    "main.dc02a629.js.map": "/Bus-Ticket-Booking/static/js/main.dc02a629.js.map",
+    "787.a0b06272.chunk.js.map": "/Bus-Ticket-Booking/static/js/787.a0b06272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634704b0.css",
+    "static/js/main.dc02a629.js"
+  ]
+}
